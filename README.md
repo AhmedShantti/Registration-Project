@@ -1,4 +1,5 @@
 # Registration-Project
+This Project was the final project of C language course in my first semester (2022-2023) at university.
 Student Record Management System Project is based on a concept of recording student records and their information. The main goal of this project is to Add Student Record, View Student Record, Update Student Record, and Delete Student Record within this system.
 
 Main Menu:
